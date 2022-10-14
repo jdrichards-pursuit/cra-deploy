@@ -42,3 +42,18 @@ I am creating a Contact component. I want to then push it to Github without my n
 7 - add component to the App.js
 8 - npm start make sure changes are working
 9 - git status check everything is staged
+10 - git add
+11 - git commit
+12 - push branch to Github
+13 - check Github
+14 - Compare & Pull Request click
+15 - Make notes look at changes
+16 - Click Merge
+17 - wait for netlify to do its checks as well
+18 - click confirm merge
+19 - delete branch on Github
+20 - go back to local project
+21 - cd to main
+22 - delete branch from main
+23 - pull info from Github to local using git pull origin main
+24 - check deployment site
