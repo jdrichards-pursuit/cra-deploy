@@ -20,3 +20,5 @@ hit Q when you are done viewing the branches
 To push to a branch
 
 git push origin <branch name>
+
+git checkout <branch name> without the b allows you to look at a branch check it out
