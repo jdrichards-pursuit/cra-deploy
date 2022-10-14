@@ -22,3 +22,11 @@ To push to a branch
 git push origin <branch name>
 
 git checkout <branch name> without the b allows you to look at a branch check it out
+
+git pull origin main
+Do this after you merge on Github and before you add anything else to your main branch
+
+to locally delete branch use
+git branch -d <name of branch>
+if you get a message that it won't delete use
+git branch -D <name of branch>
