@@ -1,3 +1,5 @@
+import Contact from "./Components/Contact";
+
 import "./App.css";
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
       <h1>Pursuit App Template</h1>
       <h2>My new update</h2>
       <h3>Making changes on jd-first-branch</h3>
+      <Contact />
     </div>
   );
 }
