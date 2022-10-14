@@ -40,4 +40,5 @@ I am creating a Contact component. I want to then push it to Github without my n
 5 - git add .
 6 - git commit -m <message in quotes>
 7 - add component to the App.js
-8 -
+8 - npm start make sure changes are working
+9 - git status check everything is staged
